@@ -1,0 +1,8 @@
+Deployment Instructions for PfSecure
+
+This script deploys a PfSecure image with 2 NICs to an existing VNET and Subnets.
+
+Files Included in this solution:
+createvm_exist_pfsecure_dualnic.ps1
+
+Note, these scripts require Azure Powershell 1.0.
